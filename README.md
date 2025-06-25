@@ -2,6 +2,11 @@
 <strong>--------------------------------------------------------------</strong>
                         <tab><br>Information System
                         <br><strong>NguyenThaiAnh</strong>
+
+                        <pre>
+  This is an example 
+      with a tab character
+</pre>
 <br><strong>--------------------------------------------------------------</strong>
 
 # Example headings
