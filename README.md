@@ -4,8 +4,8 @@
                         <br><strong>NguyenThaiAnh</strong>
 
 <pre>
-                        <br>Information System
-                        <br><strong>NguyenThaiAnh</strong>
+                        Information System
+                        <strong>NguyenThaiAnh</strong>
 </pre>
 <br><strong>--------------------------------------------------------------</strong>
 
