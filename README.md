@@ -3,7 +3,7 @@
                         <tab><br>Information System
                         <br><strong>NguyenThaiAnh</strong>
 
-                        <pre>
+<pre>
   This is an example 
       with a tab character
 </pre>
