@@ -6,6 +6,7 @@
 <pre>
                         Information System
                         <strong>NguyenThaiAnh</strong>
+  @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 </pre>
 <br><strong>--------------------------------------------------------------</strong>
 
