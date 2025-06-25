@@ -1,11 +1,11 @@
 # B2203427
 <strong>--------------------------------------------------------------</strong>
-                        <tab><br>Information System
+                        <br>Information System
                         <br><strong>NguyenThaiAnh</strong>
 
 <pre>
-  This is an example 
-      with a tab character
+  Information System
+                        <strong>NguyenThaiAnh</strong>
 </pre>
 <br><strong>--------------------------------------------------------------</strong>
 
