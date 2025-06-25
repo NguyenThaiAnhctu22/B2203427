@@ -6,8 +6,10 @@
 <pre>
                         Information System
                         <strong>NguyenThaiAnh</strong>
-  @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+  
 </pre>
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 <br><strong>--------------------------------------------------------------</strong>
 
 # Example headings
